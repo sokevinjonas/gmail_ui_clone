@@ -15,11 +15,11 @@ Ceci est un projet clone de Gmail développé avec Flutter pour favoriser mon ap
 
 ## 📷 Aperçu
 
-![Screen1.png](assets%2Fimages%2FScreen1.png)
+    ![Screen1.png](assets%2Fimages%2FScreen1.png)
 
-![Screen2.png](assets%2Fimages%2FScreen2.png)
+    ![Screen2.png](assets%2Fimages%2FScreen2.png)
 
 ## 📄 Licence
 
 Ce projet est sous licence MIT. Tu peux l'utiliser et le modifier librement.
-Whatsapp ☎️: +226 52-64-56-34
+    Whatsapp ☎️: +226 52-64-56-34
