@@ -14,9 +14,8 @@ Ceci est un projet clone de Gmail développé avec Flutter pour favoriser mon ap
 - Interface responsive pour une meilleure expérience utilisateur sur mobile et tablette
 
 ## 📷 Aperçu
-![Screenshot_20250307_003457.png](lib%2FScreenshot_20250307_003457.png)
-![Screenshot_20250307_003535.png](lib%2FScreenshot_20250307_003535.png)
-
+![Screen1.png](lib%2FScreen1.png)
+![Screen2.png](lib%2FScreen2.png)
 ## 📄 Licence
 
 Ce projet est sous licence MIT. Tu peux l'utiliser et le modifier librement.
