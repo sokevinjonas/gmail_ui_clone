@@ -16,8 +16,8 @@ Ceci est un projet clone de Gmail développé avec Flutter pour favoriser mon ap
 ## 📷 Aperçu
 
 <p align="center">
-  <img src="assets/images/Screen1.png" width="300">
-  <img src="assets/images/Screen2.png" width="300">
+  <img src="assets/images/Screen1.png" width="300" alt="Image 1">
+  <img src="assets/images/Screen2.png" width="300" alt="Image 2">
 </p>
 
 ## 📄 Licence
